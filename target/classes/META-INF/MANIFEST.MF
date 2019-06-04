@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: test.curso
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Luis
+Implementation-Vendor-Id: com.at
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/test.curso
+Created-By: Maven Integration for Eclipse
+
